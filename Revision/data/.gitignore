@@ -1,0 +1,7 @@
+.DS_Store
+data/
+hotel_bookings (1).csv
+.ipynb_checkpoints/
+__pycache__/
+.env
+venv/
